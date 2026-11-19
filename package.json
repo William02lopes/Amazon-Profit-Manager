@@ -1,0 +1,1 @@
+{"name":"apm-supabase","private":true,"type":"module","scripts":{"test":"node supabase/tests/run-tests.mjs && node supabase/tests/security-tests.mjs && node supabase/tests/parity.mjs"},"devDependencies":{"@electric-sql/pglite":"^0.5.13","jsdom":"^30.1.3"}}
